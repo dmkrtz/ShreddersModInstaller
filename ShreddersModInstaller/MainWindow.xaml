@@ -1,0 +1,17 @@
+﻿<Window x:Class="ShreddersModInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShreddersModInstaller"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnSelectZip" Content="Button" HorizontalAlignment="Left" Margin="566,105,0,0" VerticalAlignment="Top" Width="75" Click="BtnSelectZip_Click"/>
+        <TextBox x:Name="txtZipPath" HorizontalAlignment="Left" Height="23" Margin="37,104,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="461"/>
+        <TextBox x:Name="txtShreddersInstall" HorizontalAlignment="Left" Height="23" Margin="43,39,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="399"/>
+        <Button x:Name="btnShreddersPath" Content="Button" HorizontalAlignment="Left" Margin="523,41,0,0" VerticalAlignment="Top" Width="75" Click="BtnShreddersPath_Click"/>
+        <Button x:Name="btnInstall" Content="Button" HorizontalAlignment="Left" Margin="377,207,0,0" VerticalAlignment="Top" Width="75" Click="BtnInstall_Click"/>
+
+    </Grid>
+</Window>

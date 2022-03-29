@@ -1,0 +1,15 @@
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\bin\Debug\ShreddersModInstaller.exe.config
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\bin\Debug\ShreddersModInstaller.exe
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\bin\Debug\ShreddersModInstaller.pdb
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.csprojAssemblyReference.cache
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\MainWindow.g.cs
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\App.g.cs
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller_MarkupCompile.cache
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller_MarkupCompile.lref
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\MainWindow.baml
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.g.resources
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.Properties.Resources.resources
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.csproj.GenerateResource.cache
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.exe
+C:\Users\Dominik\source\repos\ShreddersModInstaller\ShreddersModInstaller\obj\Debug\ShreddersModInstaller.pdb
